@@ -29,10 +29,6 @@
     width: 300px;
   }
 
-  #dnd {
-    font-weight: bold;
-  }
-
   #portrait {
     float: left;
     margin-right: 20px;
@@ -124,4 +120,22 @@
   th {
     background-color: #000000;
     color: #CCCCCC;
+  }
+
+  #connect {
+    font-weight: bold;
+  }
+
+  #social {
+    background-color: #555555;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    padding: 10px;
+    background-color:  #555555;
+    border: 1px gray solid;
+  }
+
+  .social-icon {
+    margin-right: 15px;
   }
